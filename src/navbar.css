@@ -1,0 +1,60 @@
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    background-color:aqua; 
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .navbar ul li {
+    display: inline;
+    margin: 0 20px; 
+  }
+  
+  .navbar ul li a {
+    text-decoration: none;
+    color:magenta; 
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .navbar-right ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-right ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .navbar-right ul li a {
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+  }
+  
+  .navbar-left {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  
+  
+  
+  
+  
